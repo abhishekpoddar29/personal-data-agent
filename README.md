@@ -173,7 +173,7 @@ FastAPI interactive docs available at **http://localhost:8000/docs** when the ba
 
 ---
 
-## 🧱 Challenges We Faced
+## 🧱 Challenges Faced
 
 - **PyMuPDF DLL error on Windows** — `ImportError: DLL load failed while importing _extra`. Fixed by installing the Microsoft Visual C++ Redistributable and pinning `PyMuPDF==1.23.8`.
 
